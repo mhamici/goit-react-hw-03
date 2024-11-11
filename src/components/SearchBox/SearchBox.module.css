@@ -1,17 +1,17 @@
 .searchBox {
-  margin-bottom: 20px;
+margin-bottom: 20px;
 }
 
 .label {
-  display: flex;
-  flex-direction: column;
-  font-size: 0.9em;
-  font-weight: bold;
+display: flex;
+flex-direction: column;
+font-size: 0.9em;
+font-weight: bold;
 }
 
 .input {
-  padding: 5px;
-  margin-top: 5px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+padding: 5px;
+margin-top: 5px;
+border: 1px solid #ccc;
+border-radius: 5px;
 }

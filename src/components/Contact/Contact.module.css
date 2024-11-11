@@ -1,52 +1,52 @@
 .contactItem {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #f9f9f9;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+background-color: #f9f9f9;
 }
 
 .contactInfo {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
+display: flex;
+flex-direction: column;
+gap: 5px;
 }
 
 .contactContext {
-  display: flex;
-  align-items: center;
-  gap: 8px;
+display: flex;
+align-items: center;
+gap: 8px;
 }
 
 .icon {
-  font-size: 1.2em;
-  color: #333;
+font-size: 20px;
+color: #333;
 }
 
 .name {
-  font-weight: bold;
-  font-size: 1em;
+font-weight: bold;
+font-size: 16px;
 }
 
 .number {
-  font-size: 0.9em;
-  color: #555;
-  text-decoration: none;
+font-size: 14px;
+color: blue;
+text-decoration: none;
 }
 
 .button {
-  padding: 5px 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #e6e6e6;
-  cursor: pointer;
-  font-size: 0.9em;
-  transition: background-color 0.2s;
+padding: 5px 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+background-color: #e6e6e6;
+cursor: pointer;
+font-size: 14px;
+transition: background-color 0.2s;
 }
 
 .button:hover {
-  background-color: #ccc;
+background-color: #ccc;
 }
